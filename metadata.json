@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini DocInsight RAG",
+  "description": "A sophisticated Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and engage in a context-aware dialogue using the advanced reasoning capabilities of Gemini 3 models.",
+  "requestFramePermissions": []
+}
